@@ -21,7 +21,7 @@ A cyclic pattern exists when data exhibit rises and falls that are not of fixed 
 
 ## Resources
 
-###Online Forecasting Textbook (Hyndman)
+### Online Forecasting Textbook (Hyndman)
 - https://www.otexts.org/fpp/1/1
 
 ### Prophet 
